@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="pressed_btn">#88FFDD00</drawable>
+    <drawable name="nomal_btn">#FFFFFF00</drawable>
+
+
+</resources>
