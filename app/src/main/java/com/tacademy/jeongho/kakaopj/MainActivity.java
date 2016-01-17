@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
                         break;
                 }
                 inputView.setText("");
+                listView.smoothScrollToPosition(mAdapter.getCount()-1);
             }
         });
 
